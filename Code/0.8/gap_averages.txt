@@ -1,0 +1,5 @@
+Left Gap Steady Average: 24.57 μm
+Right Gap Steady Average: 29.85 μm
+
+Left Gap Average: 24.57 μm
+Right Gap Average: 29.85 μm
