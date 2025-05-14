@@ -1,0 +1,5 @@
+# Ignore all PDF files
+*.pdf
+
+# Or, if you only want to ignore that specific large PDF
+# Research/978-3-319-09918-7.pdf
