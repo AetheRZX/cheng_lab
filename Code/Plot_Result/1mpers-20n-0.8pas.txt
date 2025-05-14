@@ -1,0 +1,4 @@
+--- Analysis Summary (Indices 5098 to 5220) ---
+Average Left Gap [μm]: 78.82
+Average Right Gap [μm]: 80.14
+Average Load [N]: 0.28

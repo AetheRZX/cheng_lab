@@ -1,0 +1,4 @@
+--- Analysis Summary (Indices 8221 to 8383) ---
+Average Left Gap [μm]: 250.10
+Average Right Gap [μm]: 264.66
+Average Load [N]: 9.66

@@ -1,0 +1,13 @@
+ # # --- Step 5: Plotting (if successful) ---
+            # plt.figure(figsize=(10, 6))
+            # plt.plot(x_axis, left_gap, label=f"Left Gap (avg: {left_gap_avg:.2f})")
+            # plt.plot(x_axis, right_gap, label=f"Right Gap (avg: {right_gap_avg:.2f})")
+            # plt.plot(x_axis, load_data, label="Load (Processed)")
+            # plt.axhline(left_gap_avg, color='blue', linestyle=':', alpha=0.7)
+            # plt.axhline(right_gap_avg, color='red', linestyle=':', alpha=0.7)
+            # plt.xlabel("Processed Axial Distance [mm]")
+            # plt.ylabel("Values")
+            # plt.title(f"Analyzed Region (Original Indices: {start_index}-{end_index-1})")
+            # plt.legend()
+            # plt.grid(True)
+            # plt.show()
